@@ -1,378 +1,206 @@
 # WorxGPT
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/hakmedevs-svg/WorxGPT?style=flat-square)](https://github.com/hakmedevs-svg/WorxGPT)
+[![GitHub Stars](https://img.shields.io/github/stars/hakmedevs-svg/WorxGPT?style=flat-square)](https://github.com/hakmedevs-svg/WorxGPT/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/hakmedevs-svg/WorxGPT?style=flat-square)](https://github.com/hakmedevs-svg/WorxGPT/issues)
 [![GitHub Forks](https://img.shields.io/github/forks/hakmedevs-svg/WorxGPT?style=flat-square)](https://github.com/hakmedevs-svg/WorxGPT/network/members)
 [![Last Commit](https://img.shields.io/github/last-commit/hakmedevs-svg/WorxGPT?style=flat-square)](https://github.com/hakmedevs-svg/WorxGPT/commits)
+[![Rating](https://img.shields.io/badge/Rating-⭐⭐⭐⭐⭐-brightgreen?style=flat-square)](https://github.com/hakmedevs-svg/WorxGPT)
 
 ---
 
-## Your AI Workspace for Work, Code, Research, and Creation
+<div align="center">
 
-WorxGPT is a modern, production-ready AI workspace that transcends traditional chatbots. It's a comprehensive platform designed to integrate artificial intelligence seamlessly into your workflow—whether you're writing code, analyzing projects, conducting research, or automating intelligent agent workflows.
+## 🚀 WorxGPT
 
-Built for developers, teams, and organizations, WorxGPT combines conversational AI with powerful project analysis, web intelligence, and extensible integrations into a single, unified workspace.
+### Your AI Workspace for Work, Code, Research, and Creation
 
-**[→ Documentation](https://docs.worxgpt.io)** • **[→ Live Demo](https://demo.worxgpt.io)** • **[→ Releases](https://github.com/hakmedevs-svg/WorxGPT/releases)** • **[→ Community Discord](https://discord.gg/worxgpt)**
+**An advanced, production-ready AI platform that combines conversational AI, project analysis, web intelligence, and intelligent agent workflows into a unified workspace.**
 
----
+[**🌐 Demo**](https://demo.worxgpt.io) • [**📖 Documentation**](https://docs.worxgpt.io) • [**📦 Releases**](https://github.com/hakmedevs-svg/WorxGPT/releases) • [**🤝 Telegram**](https://t.me/hhyr10) • [**💬 Discussions**](https://github.com/hakmedevs-svg/WorxGPT/discussions) • [**📋 Issues**](https://github.com/hakmedevs-svg/WorxGPT/issues)
 
-## Overview
-
-WorxGPT addresses the fragmentation of modern development and research workflows. Instead of juggling multiple tools—chatbots, IDEs, research platforms, integrations, and project management systems—WorxGPT unifies them into one intelligent workspace.
-
-### What Makes WorxGPT Different?
-
-- **Project-Aware Intelligence**: Upload entire codebases and let WorxGPT understand your architecture, dependencies, and coding patterns.
-- **Web Research Agent**: Harness AI to autonomously research, synthesize, and integrate information from across the web.
-- **Smart Integrations**: Connect to external APIs and services securely via OAuth-based authentication without exposing credentials.
-- **Workspace Organization**: Manage conversations, projects, files, and workflows separately for different clients, teams, or initiatives.
-- **AI Agent Workflows**: Build, customize, and execute intelligent agent chains that solve complex, multi-step problems.
-- **Multilingual & Responsive**: Work in your language, on any device, with a modern, adaptable interface.
+</div>
 
 ---
 
-## Core Features
+## ✨ Overview
+
+WorxGPT transcends traditional chatbots by addressing the fragmentation of modern development and research workflows. Instead of juggling multiple tools—chatbots, IDEs, research platforms, integrations, and project management systems—WorxGPT unifies them into one intelligent, powerful workspace.
+
+### 🎯 What Makes WorxGPT Different?
+
+| Feature | Description |
+|---------|-------------|
+| 🏗️ **Project-Aware Intelligence** | Upload entire codebases and let WorxGPT understand your architecture, dependencies, and coding patterns |
+| 🌐 **Web Research Agent** | Autonomous AI that researches, synthesizes, and integrates information from across the web |
+| 🔐 **Smart Integrations** | Secure OAuth-based connections to GitHub, Slack, Google Workspace, Notion, Jira, and more |
+| 📦 **Workspace Organization** | Manage conversations, projects, files, and workflows separately for different contexts |
+| 🤖 **AI Agent Workflows** | Build intelligent, multi-step agent chains that solve complex problems |
+| 🌍 **Multilingual & Responsive** | Work in your language on any device with adaptive, modern interface |
+
+---
+
+## 🎨 Features Showcase
 
 ### 💬 Advanced AI Chat
-
-Engage in natural, context-aware conversations with multiple AI models. WorxGPT understands conversation history, remembers context across sessions, and adapts to your communication style.
-
-- Real-time streaming responses
-- Conversation branching and exploration
-- Contextual memory and retrieval
-- Custom system prompts and personas
+- **Real-time streaming responses** from multiple AI providers
+- **Context-aware conversations** with memory and retrieval
+- **Model switching** mid-conversation
+- **Conversation branching** for exploration
 
 ### 🧠 Multiple AI Models
-
-Access cutting-edge language models from leading providers, all in one place.
-
 - OpenAI GPT-4 & GPT-3.5
 - Anthropic Claude
 - Google Gemini
-- Local model support (via Ollama, LLaMA, etc.)
-- Model switching mid-conversation
+- Local model support (Ollama, LLaMA)
 - Provider failover and load balancing
 
 ### 📁 File Upload & Analysis
-
-Upload documents, images, code snippets, and datasets for instant analysis.
-
-- Multi-format support (PDF, DOCX, TXT, JSON, CSV, images, and more)
+- Multi-format support (PDF, DOCX, TXT, JSON, CSV, images)
 - Document parsing and extraction
 - Code snippet understanding and refactoring
 - Image recognition and analysis
-- File-based context injection into conversations
+- Contextual file injection into conversations
 
 ### 🏗️ Uploaded Project System
-
-The cornerstone of WorxGPT's power: upload your entire software project and unlock AI-driven development.
+The cornerstone of WorxGPT's power—upload entire projects for AI-driven development:
 
 **Capabilities:**
-- Automatic project structure mapping
+- Automatic project structure mapping and visualization
 - Dependency analysis and vulnerability detection
-- Codebase review and code quality suggestions
+- Codebase review with quality suggestions
 - Architecture understanding and documentation
 - Automated error identification and fix generation
-- File modification and code generation
-- Build and test preparation assistance
-- Integration with development workflows
+- File modification and intelligent code generation
+- Build and deployment preparation
 
 **Supported Project Types:**
-- Node.js / JavaScript / TypeScript
-- Python (Django, Flask, FastAPI)
-- Go, Rust, and other compiled languages
-- Full-stack projects (monorepos)
-- Container-based applications (Docker)
-- Infrastructure-as-Code (Terraform, Kubernetes)
+```
+✓ Node.js / JavaScript / TypeScript
+✓ Python (Django, Flask, FastAPI)
+✓ Go, Rust, and compiled languages
+✓ Full-stack projects (monorepos)
+✓ Container-based applications (Docker)
+✓ Infrastructure-as-Code (Terraform, Kubernetes)
+```
 
-### 🌐 Web Agent
-
-WorxGPT's Web Agent is an autonomous AI system that:
-
-- Researches information across the internet
-- Collects relevant data from multiple sources
-- Analyzes and cross-references findings
-- Synthesizes insights and recommendations
-- Integrates results into your workflow
-- Cites sources for transparency and verification
-
-**Use Cases:**
-- Competitive analysis
-- Market research
-- Technical documentation discovery
-- Industry trend analysis
-- Real-time data collection
-
-### 🔍 Web Research
-
-Combine conversational AI with real-time web search for up-to-date, sourced responses.
-
-- Real-time search integration
-- Source attribution and verification
-- Fact-checking capabilities
-- Citation management
+### 🌐 Web Agent & Research
+- **Autonomous browsing** across the internet
+- **Multi-source synthesis** into coherent findings
+- **Fact verification** across sources
+- **Real-time data collection** with citations
+- **Use cases:** Competitor analysis, API discovery, trend tracking
 
 ### 🔌 Integrations & OAuth
+Securely connect external platforms without exposing credentials:
+- **GitHub** - Repository management, CI/CD
+- **Slack** - Team notifications and commands
+- **Google Workspace** - Drive, Docs, Sheets
+- **Notion** - Workspace documentation
+- **Jira** - Project tracking
+- **Stripe** - Payment data and insights
+- **Custom REST APIs** - via OAuth 2.0
 
-Extend WorxGPT's capabilities by connecting to external platforms and services securely.
-
-**Supported Integrations:**
-- GitHub (repository management, CI/CD)
-- Slack (team notifications and commands)
-- Google Workspace (Drive, Docs, Sheets)
-- Notion (workspace documentation)
-- Jira (project tracking)
-- Stripe (payment data and insights)
-- Custom REST APIs via OAuth
-
-**Security Model:**
-- OAuth 2.0 token-based authentication
-- No credential storage in WorxGPT
-- Secure token encryption and refresh
-- Granular permission scoping
-- Audit logging for all integration actions
+**Security Model:** Encrypted token storage, automatic refresh, granular permissions, audit logging
 
 ### 🏢 Workspaces
+Organize work across multiple contexts without data mixing:
 
-Organize your work across multiple contexts without mixing data or conversations.
-
-- Separate workspaces for different projects, clients, or teams
-- Workspace-level access control and permissions
-- Independent conversation history per workspace
-- Shared workspace resources and templates
-- Customizable workspace settings and integrations
+| Feature | Benefit |
+|---------|---------|
+| **Isolation** | Independent conversation histories per workspace |
+| **Access Control** | Role-based permissions for team members |
+| **Customization** | Per-workspace AI models and integration settings |
+| **Collaboration** | Shared resources and templates |
 
 ### 📝 Conversation Management
-
-Power your workflow with intelligent conversation tracking and retrieval.
-
-- Full conversation history with search
-- Conversation pinning and favorites
-- Export conversations to multiple formats (PDF, Markdown, JSON)
+- Full-text search across conversation history
+- Pinning, favorites, and tagging
+- Export to PDF, Markdown, JSON
 - Conversation sharing and collaboration
-- Tags and custom organization
-- Automatic conversation summarization
+- Automatic summarization
 
 ### 🛠️ AI Coding Assistance
-
-Leverage AI to accelerate your development process.
-
-- Code generation from natural language specifications
+- Code generation from natural language specs
 - Code review and refactoring suggestions
-- Bug detection and fix recommendations
-- Unit test generation
+- Bug detection with fix recommendations
+- Automated unit test generation
 - Documentation generation
-- Performance optimization tips
-- Security vulnerability detection
+- Performance optimization
+- Security vulnerability scanning
 
 ### 📊 Project Management
-
-Build intelligent workflows around your projects.
-
-- Task creation and tracking from AI conversations
+- Task creation from AI conversations
 - Automatic issue identification and logging
-- Milestone planning with AI assistance
+- AI-assisted milestone planning
 - Resource allocation recommendations
-- Progress visualization and reporting
+- Progress visualization
 
 ### 🌍 Multilingual Interface
-
-Work in your preferred language with full support for:
-
-- English, Spanish, French, German, Chinese, Japanese, Arabic, and more
-- Automatic language detection
-- Seamless language switching
-- Translated AI responses and documentation
+Full support for: English, Spanish, French, German, Chinese, Japanese, Arabic, and more
 
 ### 🎨 Dark & Light Theme
-
-Optimized visual experiences for any environment.
-
-- System-level theme detection
-- Manual theme toggling
-- High-contrast accessibility options
-- Custom color scheme support
+System-level detection with manual toggle, high-contrast options, and custom schemes
 
 ### 📱 Responsive UI
-
-WorxGPT adapts to any device or screen size.
-
 - Desktop, tablet, and mobile optimization
 - Progressive Web App (PWA) capabilities
-- Offline mode support (limited)
-- Touch-friendly interface design
+- Offline mode support
+- Touch-friendly interface
 - Performance-optimized rendering
 
 ### 🤖 AI Agent Workflows
-
-Build and execute sophisticated multi-step AI workflows.
-
 - Drag-and-drop workflow builder
 - Conditional logic and branching
 - Parallel task execution
 - Tool integration and function calling
 - Workflow scheduling and automation
-- Performance monitoring and optimization
+- Performance monitoring
 
 ---
 
-## Uploaded Project System: In-Depth
-
-The **Uploaded Project System** is WorxGPT's most powerful feature. It transforms WorxGPT from a conversational tool into a full-featured AI development partner.
-
-### How It Works
-
-1. **Upload**: Select a local project folder or connect a Git repository
-2. **Indexing**: WorxGPT analyzes the entire project structure, including dependencies, configuration, and code
-3. **Understanding**: The AI builds a semantic model of your codebase, architecture, and design patterns
-4. **Interaction**: Ask questions about any aspect of the project; get AI-powered insights and assistance
-
-### What WorxGPT Can Do with Your Project
-
-- **Understand Architecture**: Visualize project structure, identify modules, and trace dependencies
-- **Review Code**: Analyze code quality, suggest refactors, and identify anti-patterns
-- **Fix Errors**: Identify bugs, propose fixes, and generate patches
-- **Generate Code**: Create new features, functions, and modules based on patterns in your codebase
-- **Improve Performance**: Profile and optimize bottlenecks
-- **Ensure Security**: Scan for vulnerabilities and recommend hardening strategies
-- **Update Dependencies**: Analyze compatibility issues and suggest updates
-- **Prepare for Deployment**: Generate CI/CD configurations, Dockerfiles, and deployment scripts
-- **Document Automatically**: Generate README files, API documentation, and architecture diagrams
-
-### Example Workflow
-
-```
-Developer: "Upload my Next.js project and audit the authentication system"
-     ↓
-WorxGPT: Analyzes /src/auth, /src/middleware, /src/api/auth, package.json
-     ↓
-AI: "I found 3 security issues in your JWT handling. Here are fixes..."
-     ↓
-Developer: "Apply the fixes and generate unit tests"
-     ↓
-WorxGPT: Generates secure auth code + comprehensive test suite
-     ↓
-Developer: Integrates changes into their project
-```
-
----
-
-## Web Agent: Autonomous AI Research
-
-The **Web Agent** extends WorxGPT beyond your local data into the broader internet.
-
-### Capabilities
-
-- **Autonomous Browsing**: Navigate websites, extract information, follow links
-- **Multi-Source Research**: Synthesize data from multiple sources into coherent findings
-- **Fact Verification**: Cross-reference information across sources
-- **Real-Time Data**: Access current information, market data, API status pages
-- **Source Attribution**: Every finding includes source citations and URLs
-
-### Use Cases
-
-- Competitor analysis and market research
-- API documentation discovery
-- Industry trend tracking
-- Technical research for project planning
-- Price comparison and vendor evaluation
-
----
-
-## Integrations Architecture
-
-WorxGPT integrations follow a **secure, credential-less OAuth model**:
-
-```
-User → WorxGPT → OAuth Provider → External Service
-  ↓
-  ├─ Requests Authorization
-  ├─ Receives Access Token (encrypted in WorxGPT)
-  ├─ Uses Token for Authorized API Calls
-  ├─ Encrypts Token at Rest
-  └─ Audits All API Activity
-```
-
-**No API keys or passwords are stored in plain text. Users authorize integrations once; WorxGPT manages tokens securely.**
-
-### Adding New Integrations
-
-Integrations are plugin-based:
-
-```
-integration/
-├── oauth-handler.js          # OAuth flow management
-├── api-client.js             # Authenticated API calls
-├── sync-manager.js           # Data synchronization
-└── actions.js                # Available actions
-```
-
----
-
-## Workspaces: Multi-Context Organization
-
-Workspaces provide isolated, context-aware environments:
-
-| Feature | Details |
-|---------|---------|
-| **Conversation Isolation** | Each workspace has independent conversation history |
-| **Resource Sharing** | Optional shared knowledge base across workspaces |
-| **Access Control** | Invite team members with role-based permissions |
-| **Settings** | Customize AI models, integrations, and behaviors per workspace |
-| **Storage** | Separate file storage and project uploads per workspace |
-
-### Workspace Use Cases
-
-- **Client Work**: Separate workspace per client with independent histories
-- **Team Collaboration**: Shared workspace for a project team
-- **Personal Projects**: Private workspace for individual work
-- **Experimentation**: Dedicated workspace for testing new features
-
----
-
-## Architecture
+## 🏗️ Architecture
 
 ```mermaid
 graph TB
-    subgraph Client["Client Layer"]
+    subgraph Client["🖥️ Client Layer"]
         UI["Web UI<br/>React + TypeScript"]
-        PWA["PWA / Offline Support"]
+        PWA["PWA / Offline"]
     end
 
-    subgraph API["API Layer"]
+    subgraph API["🔌 API Layer"]
         Gateway["API Gateway<br/>Express / FastAPI"]
         Auth["Authentication<br/>OAuth 2.0 / JWT"]
         Chat["Chat Service<br/>WebSocket / gRPC"]
     end
 
-    subgraph Core["Core Services"]
+    subgraph Core["⚙️ Core Services"]
         Conv["Conversation Manager"]
         Project["Project Analyzer"]
         Agent["Web Agent Engine"]
         Integration["Integration Hub"]
     end
 
-    subgraph AI["AI & LLM Layer"]
+    subgraph AI["🧠 AI & LLM Layer"]
         Router["Model Router"]
         OpenAI["OpenAI GPT-4"]
         Claude["Anthropic Claude"]
         Gemini["Google Gemini"]
-        Local["Local Models<br/>Ollama"]
+        Local["Local Models"]
     end
 
-    subgraph Data["Data Layer"]
+    subgraph Data["💾 Data Layer"]
         Cache["Redis Cache"]
-        DB["PostgreSQL<br/>Vector DB"]
-        Storage["Object Storage<br/>S3 Compatible"]
-        Search["Full-Text Search<br/>ElasticSearch"]
+        DB["PostgreSQL"]
+        VecDB["Vector DB"]
+        Storage["Object Storage<br/>S3"]
+        Search["ElasticSearch"]
     end
 
-    subgraph External["External Services"]
-        Web["Web Agent<br/>Crawling"]
-        OAuth["OAuth Providers<br/>GitHub, Slack, etc"]
-        Tools["External APIs<br/>Integrations"]
+    subgraph External["🌐 External"]
+        Web["Web Crawling"]
+        OAuth["OAuth Providers"]
+        Tools["External APIs"]
     end
 
     UI --> Gateway
@@ -391,54 +219,40 @@ graph TB
     Router --> Local
     Conv --> Cache
     Conv --> DB
+    Conv --> VecDB
     Project --> Storage
     Project --> Search
     Agent --> Web
     Integration --> OAuth
     Integration --> Tools
 
-    style Client fill:#e1f5ff
-    style API fill:#f3e5f5
-    style Core fill:#e8f5e9
-    style AI fill:#fff3e0
-    style Data fill:#fce4ec
-    style External fill:#f1f8e9
+    style Client fill:#e1f5ff,stroke:#01579b,stroke-width:2px
+    style API fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+    style Core fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px
+    style AI fill:#fff3e0,stroke:#e65100,stroke-width:2px
+    style Data fill:#fce4ec,stroke:#880e4f,stroke-width:2px
+    style External fill:#f1f8e9,stroke:#33691e,stroke-width:2px
 ```
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
-| Layer | Technology | Version | Purpose |
-|-------|-----------|---------|---------|
-| **Frontend** | React 18+ | Latest | UI components and state management |
-| | TypeScript 5+ | Latest | Type safety and developer experience |
-| | Tailwind CSS | Latest | Styling and responsive design |
-| | Redux / Zustand | Latest | State management |
-| **Backend** | Node.js / Python | 18+ / 3.10+ | Runtime and API server |
-| | Express / FastAPI | Latest | Web framework and routing |
-| | WebSocket / gRPC | Latest | Real-time communication |
-| **Database** | PostgreSQL | 14+ | Relational data and ACID compliance |
-| | Redis | 7+ | Caching and session storage |
-| | Vector DB | Pinecone / Weaviate | Semantic search and embeddings |
-| **Search** | ElasticSearch | 8+ | Full-text search and indexing |
-| **Authentication** | OAuth 2.0 | RFC 6749 | Third-party authorization |
-| | JWT | RS256 | Session tokens |
-| **AI Providers** | OpenAI API | Latest | GPT-4, GPT-3.5-turbo |
-| | Anthropic API | Latest | Claude model family |
-| | Google API | Latest | Gemini models |
-| | Ollama / LLaMA | Latest | Local model inference |
-| **File Storage** | AWS S3 / MinIO | Latest | File and asset storage |
-| **Deployment** | Docker | Latest | Containerization |
-| | Kubernetes | 1.27+ | Orchestration (optional) |
-| | Docker Compose | Latest | Local development |
-| **Monitoring** | Prometheus | Latest | Metrics collection |
-| | Grafana | Latest | Metrics visualization |
-| | Sentry | Latest | Error tracking |
+| Layer | Technologies |
+|-------|--------------|
+| **Frontend** | React 18+, TypeScript 5+, Tailwind CSS, Redux/Zustand |
+| **Backend** | Node.js 18+ / Python 3.10+, Express / FastAPI, WebSocket |
+| **Database** | PostgreSQL 14+, Redis 7+, Vector DB (Pinecone/Weaviate) |
+| **Search** | ElasticSearch 8+ |
+| **Auth** | OAuth 2.0 (RFC 6749), JWT (RS256) |
+| **AI Providers** | OpenAI API, Anthropic API, Google Gemini, Ollama |
+| **Storage** | AWS S3 / MinIO |
+| **Deployment** | Docker, Kubernetes 1.27+, Docker Compose |
+| **Monitoring** | Prometheus, Grafana, Sentry |
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 WorxGPT/
@@ -447,279 +261,109 @@ WorxGPT/
 │   │   ├── components/         # Reusable UI components
 │   │   ├── pages/              # Page components
 │   │   ├── services/           # API services
-│   │   ├── store/              # Redux/Zustand store
-│   │   ├── hooks/              # Custom React hooks
-│   │   ├── utils/              # Utility functions
-│   │   ├── styles/             # Tailwind and CSS
-│   │   └── App.tsx
-│   ├── public/                 # Static assets
-│   ├── package.json
-│   └── tsconfig.json
+│   │   ├── store/              # State management
+│   │   ├── hooks/              # Custom hooks
+│   │   ├── utils/              # Utilities
+│   │   └── styles/             # Tailwind & CSS
+│   ├── public/
+│   └── package.json
 │
-├── backend/                     # Node.js / Python API server
+├── backend/                     # API server
 │   ├── src/
-│   │   ├── api/                # API routes and controllers
+│   │   ├── api/                # Routes & controllers
 │   │   ├── services/           # Business logic
 │   │   ├── models/             # Data models
 │   │   ├── middleware/         # Express/FastAPI middleware
-│   │   ├── auth/               # Authentication logic
-│   │   ├── integrations/       # Third-party service integrations
+│   │   ├── auth/               # Authentication
+│   │   ├── integrations/       # Third-party services
 │   │   ├── ai/                 # AI model interfaces
 │   │   ├── agents/             # AI agent implementations
-│   │   ├── analyzers/          # Project and file analysis
-│   │   ├── database/           # Database connection and queries
-│   │   ├── utils/              # Helper utilities
-│   │   └── main.ts / main.py   # Server entry point
-│   ├── config/                 # Configuration files
-│   ├── migrations/             # Database migrations
-│   ├── tests/                  # Test suites
-│   ├── Dockerfile
-│   ├── docker-compose.yml
-│   ├── package.json / requirements.txt
-│   └── .env.example
+│   │   ├── analyzers/          # Project analysis
+│   │   ├── database/           # DB connection
+│   │   └── utils/              # Helpers
+│   ├── config/
+│   ├── migrations/
+│   ├── tests/
+│   └── Dockerfile
 │
 ├── docs/                        # Documentation
-│   ├── api/                    # API documentation (OpenAPI/Swagger)
-│   ├── guides/                 # User guides and tutorials
-│   ├── architecture/           # Architecture documentation
+│   ├── api/                    # OpenAPI/Swagger
+│   ├── guides/                 # User guides
+│   ├── architecture/           # Architecture docs
 │   └── contributing.md
 │
 ├── .github/
-│   ├── workflows/              # CI/CD GitHub Actions
-│   ├── ISSUE_TEMPLATE/         # Issue templates
+│   ├── workflows/              # CI/CD pipelines
+│   ├── ISSUE_TEMPLATE/
 │   └── PULL_REQUEST_TEMPLATE.md
 │
-├── docker-compose.yml          # Full stack Docker Compose
-├── Dockerfile                  # Container image definition
-├── .env.example                # Environment variables template
+├── docker-compose.yml
+├── .env.example
 ├── .gitignore
-├── LICENSE                     # MIT License
-├── CONTRIBUTING.md             # Contribution guidelines
-├── CHANGELOG.md                # Version history
-└── README.md                   # This file
+├── LICENSE
+├── CONTRIBUTING.md
+├── CHANGELOG.md
+└── README.md
 ```
 
 ---
 
-## Installation
+## 🚀 Quick Start
 
 ### Prerequisites
-
 - **Node.js** 18+ or **Python** 3.10+
-- **Docker** and **Docker Compose** (for containerized setup)
+- **Docker** & **Docker Compose**
 - **PostgreSQL** 14+ (or use Docker)
 - **Redis** 7+ (or use Docker)
-- **Git**
 
-### Option 1: Local Development Setup
-
-#### 1. Clone the Repository
+### Option 1: Docker Compose (Recommended)
 
 ```bash
+# 1. Clone repository
 git clone https://github.com/hakmedevs-svg/WorxGPT.git
 cd WorxGPT
-```
 
-#### 2. Install Frontend Dependencies
-
-```bash
-cd frontend
-npm install
-# or
-yarn install
-```
-
-#### 3. Install Backend Dependencies
-
-```bash
-cd ../backend
-npm install
-# or
-pip install -r requirements.txt
-```
-
-#### 4. Configure Environment Variables
-
-Copy the example environment file and update it with your configuration:
-
-```bash
+# 2. Configure environment
 cp .env.example .env
-```
+# Edit .env with your API keys
 
-#### 5. Setup Database
-
-```bash
-# Create PostgreSQL database
-createdb worxgpt
-
-# Run migrations
-cd backend
-npm run migrate
-# or
-python -m alembic upgrade head
-```
-
-#### 6. Configure AI Providers
-
-Add your API keys to `.env`:
-
-```env
-OPENAI_API_KEY=sk-...
-ANTHROPIC_API_KEY=sk-ant-...
-GOOGLE_API_KEY=...
-```
-
-#### 7. Start Development Servers
-
-**Terminal 1 - Backend:**
-
-```bash
-cd backend
-npm run dev
-# or
-python app.py
-```
-
-**Terminal 2 - Frontend:**
-
-```bash
-cd frontend
-npm run dev
-```
-
-The application will be available at `http://localhost:3000`
-
-### Option 2: Docker Compose (Recommended)
-
-#### 1. Clone the Repository
-
-```bash
-git clone https://github.com/hakmedevs-svg/WorxGPT.git
-cd WorxGPT
-```
-
-#### 2. Configure Environment Variables
-
-```bash
-cp .env.example .env
-# Edit .env with your API keys and configuration
-nano .env
-```
-
-#### 3. Start All Services
-
-```bash
+# 3. Start all services
 docker-compose up -d
-```
 
-This will start:
-- Frontend (React) on `http://localhost:3000`
-- Backend API on `http://localhost:5000`
-- PostgreSQL database on `localhost:5432`
-- Redis cache on `localhost:6379`
-
-#### 4. Initialize Database
-
-```bash
+# 4. Initialize database
 docker-compose exec backend npm run migrate
-# or
-docker-compose exec backend python -m alembic upgrade head
+
+# 5. Access application
+open http://localhost:3000
 ```
 
-#### 5. Access the Application
-
-Open your browser and navigate to `http://localhost:3000`
-
-### Option 3: Production Deployment
-
-<details>
-<summary><strong>Click to expand production deployment instructions</strong></summary>
-
-#### 1. Build Docker Images
+### Option 2: Local Development
 
 ```bash
-docker build -t worxgpt-frontend ./frontend
-docker build -t worxgpt-backend ./backend
+# Clone repository
+git clone https://github.com/hakmedevs-svg/WorxGPT.git
+cd WorxGPT
+
+# Frontend setup
+cd frontend
+npm install
+npm run dev
+
+# Backend setup (in new terminal)
+cd backend
+npm install
+cp .env.example .env
+npm run migrate
+npm run dev
+
+# Access at http://localhost:3000
 ```
-
-#### 2. Deploy to Kubernetes (Example)
-
-```bash
-kubectl apply -f k8s/namespace.yaml
-kubectl apply -f k8s/configmap.yaml
-kubectl apply -f k8s/secrets.yaml
-kubectl apply -f k8s/postgres.yaml
-kubectl apply -f k8s/redis.yaml
-kubectl apply -f k8s/backend.yaml
-kubectl apply -f k8s/frontend.yaml
-kubectl apply -f k8s/ingress.yaml
-```
-
-#### 3. Configure Reverse Proxy (Nginx)
-
-```nginx
-server {
-    listen 80;
-    server_name worxgpt.example.com;
-
-    # Redirect to HTTPS
-    return 301 https://$server_name$request_uri;
-}
-
-server {
-    listen 443 ssl http2;
-    server_name worxgpt.example.com;
-
-    ssl_certificate /etc/letsencrypt/live/worxgpt.example.com/fullchain.pem;
-    ssl_certificate_key /etc/letsencrypt/live/worxgpt.example.com/privkey.pem;
-
-    # Frontend
-    location / {
-        proxy_pass http://frontend:3000;
-        proxy_http_version 1.1;
-        proxy_set_header Upgrade $http_upgrade;
-        proxy_set_header Connection 'upgrade';
-    }
-
-    # API
-    location /api {
-        proxy_pass http://backend:5000;
-        proxy_http_version 1.1;
-        proxy_set_header X-Real-IP $remote_addr;
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-    }
-
-    # WebSocket
-    location /ws {
-        proxy_pass http://backend:5000;
-        proxy_http_version 1.1;
-        proxy_set_header Upgrade $http_upgrade;
-        proxy_set_header Connection "upgrade";
-    }
-}
-```
-
-#### 4. Enable HTTPS with Let's Encrypt
-
-```bash
-certbot certonly --standalone -d worxgpt.example.com
-```
-
-#### 5. Monitor with Prometheus & Grafana
-
-```bash
-docker-compose -f docker-compose.monitoring.yml up -d
-```
-
-Access Grafana at `http://localhost:3001`
-
-</details>
 
 ---
 
-## Environment Variables
+## 🔧 Configuration
 
-Create a `.env` file in the project root with the following variables:
+### Environment Variables
 
 ```env
 # Application
@@ -733,439 +377,376 @@ DATABASE_URL=postgresql://user:password@localhost:5432/worxgpt
 REDIS_URL=redis://localhost:6379
 
 # AI Providers
-OPENAI_API_KEY=sk-YOUR_OPENAI_API_KEY_HERE
+OPENAI_API_KEY=sk-YOUR_KEY_HERE
 OPENAI_MODEL=gpt-4
-ANTHROPIC_API_KEY=sk-ant-YOUR_ANTHROPIC_API_KEY_HERE
-GOOGLE_API_KEY=YOUR_GOOGLE_API_KEY_HERE
+ANTHROPIC_API_KEY=sk-ant-YOUR_KEY_HERE
+GOOGLE_API_KEY=YOUR_KEY_HERE
 
 # Authentication
-JWT_SECRET=YOUR_SECURE_JWT_SECRET_HERE
+JWT_SECRET=YOUR_SECURE_SECRET_HERE
 JWT_EXPIRATION=24h
-OAUTH_CALLBACK_URL=http://localhost:5000/api/auth/callback
 
-# GitHub Integration (OAuth)
-GITHUB_CLIENT_ID=YOUR_GITHUB_CLIENT_ID
-GITHUB_CLIENT_SECRET=YOUR_GITHUB_CLIENT_SECRET
-
-# Slack Integration (OAuth)
-SLACK_CLIENT_ID=YOUR_SLACK_CLIENT_ID
-SLACK_CLIENT_SECRET=YOUR_SLACK_CLIENT_SECRET
-
-# Google Integration (OAuth)
-GOOGLE_CLIENT_ID=YOUR_GOOGLE_CLIENT_ID
-GOOGLE_CLIENT_SECRET=YOUR_GOOGLE_CLIENT_SECRET
+# Integrations (OAuth)
+GITHUB_CLIENT_ID=YOUR_ID
+GITHUB_CLIENT_SECRET=YOUR_SECRET
+SLACK_CLIENT_ID=YOUR_ID
+SLACK_CLIENT_SECRET=YOUR_SECRET
+GOOGLE_CLIENT_ID=YOUR_ID
+GOOGLE_CLIENT_SECRET=YOUR_SECRET
 
 # Storage
-AWS_ACCESS_KEY_ID=YOUR_AWS_ACCESS_KEY
-AWS_SECRET_ACCESS_KEY=YOUR_AWS_SECRET_ACCESS_KEY
-AWS_REGION=us-east-1
+AWS_ACCESS_KEY_ID=YOUR_KEY
+AWS_SECRET_ACCESS_KEY=YOUR_SECRET
 AWS_S3_BUCKET=worxgpt-files
-
-# Web Agent
-WEB_AGENT_TIMEOUT=30000
-WEB_AGENT_MAX_DEPTH=5
-WEB_AGENT_HEADLESS_BROWSER=true
-
-# Logging & Monitoring
-LOG_LEVEL=info
-SENTRY_DSN=https://YOUR_SENTRY_DSN
-ENABLE_PROMETHEUS_METRICS=true
 
 # Security
 RATE_LIMIT_REQUESTS=100
 RATE_LIMIT_WINDOW=15m
 CORS_ORIGIN=http://localhost:3000
-ENABLE_HTTPS=false
 ```
 
-**Important**: Never commit `.env` to version control. Use `.env.example` as a template for your team.
+**⚠️ Important:** Never commit `.env` to version control!
 
 ---
 
-## Usage
+## 💡 Usage Guide
 
-### 1. Starting a Conversation
-
-```
-1. Navigate to the Chat interface
-2. Select your preferred AI model
+### Start a Conversation
+1. Navigate to Chat interface
+2. Select your AI model (GPT-4, Claude, Gemini)
 3. Type your message and press Enter
-4. The AI will stream its response in real-time
+4. Stream responses in real-time
+
+### Upload Files
+1. Click "Upload" button
+2. Select documents, code, images, or datasets
+3. Reference with `@filename` in conversations
+4. AI automatically analyzes and provides insights
+
+### Upload a Project
+1. Click "Upload Project"
+2. Select project directory or Git repository
+3. WorxGPT indexes entire codebase
+4. Ask questions, request fixes, or generate features
+5. Export modified files
+
+### Create Workspaces
+1. Click "+" next to Workspaces
+2. Enter name and description
+3. Configure AI models and integrations
+4. Invite team members
+5. Switch between workspaces
+
+### Use Web Agent
+```
+In conversation, type: "Research: [your query]"
+→ Agent autonomously browses and synthesizes
+→ Results with source citations returned
+→ Use findings in further workflow
 ```
 
-### 2. Uploading Files
-
-```
-1. Click the "Upload" button in the chat interface
-2. Select files (documents, code, images, datasets)
-3. WorxGPT will automatically parse and analyze the files
-4. Reference the files in your conversation: "@filename"
-```
-
-### 3. Uploading a Project
-
-```
-1. Click "Upload Project" from the sidebar
-2. Select your project directory or connect a Git repository
-3. WorxGPT will index the entire codebase
-4. Ask questions about your project architecture, code quality, etc.
-5. Request modifications, fixes, or new features
-6. Export generated code back to your project
-```
-
-### 4. Creating a Workspace
-
-```
-1. Click the "+" icon next to "Workspaces" in the sidebar
-2. Enter workspace name and optional description
-3. Configure workspace settings (AI models, integrations)
-4. Invite team members and set permissions
-5. Switch between workspaces using the dropdown
-```
-
-### 5. Using the Web Agent
-
-```
-1. In your conversation, type: "Research: [your query]"
-2. The Web Agent will autonomously browse and research
-3. Results are synthesized and cited with source URLs
-4. Use the findings in your workflow or further questions
-```
-
-### 6. Connecting Integrations
-
-```
-1. Go to Settings → Integrations
-2. Click "Connect" for your desired service (GitHub, Slack, etc.)
-3. Authorize WorxGPT via OAuth (no sensitive credentials needed)
-4. Grant specific permissions as prompted
-5. Start using integrated capabilities in your conversations
-```
-
-### 7. Managing Projects
-
-```
-1. Upload a project using the Project Analyzer
-2. View project structure, dependencies, and statistics
-3. Ask AI to review code, identify issues, or generate features
-4. Export modified files or patches
-5. Track project health and improvements over time
-```
+### Connect Integrations
+1. Settings → Integrations
+2. Click "Connect" for desired service
+3. Authorize via OAuth
+4. Grant permissions
+5. Start using in conversations
 
 ---
 
-## Screenshots & Demo
-
-<details>
-<summary><strong>Click to view demo content and screenshots</strong></summary>
-
-### Chat Interface
-![Chat Interface](https://via.placeholder.com/800x600?text=WorxGPT+Chat+Interface)
-
-### Project Analyzer
-![Project Analyzer](https://via.placeholder.com/800x600?text=WorxGPT+Project+Analyzer)
-
-### Workspaces
-![Workspaces](https://via.placeholder.com/800x600?text=WorxGPT+Workspaces)
-
-### Web Agent
-![Web Agent](https://via.placeholder.com/800x600?text=WorxGPT+Web+Agent)
-
-### Integrations Hub
-![Integrations](https://via.placeholder.com/800x600?text=WorxGPT+Integrations)
-
-### Live Demo
-
-[Open WorxGPT Demo](https://demo.worxgpt.io) (Requires registration)
-
-### Feature Walkthrough
-
-[YouTube Playlist: WorxGPT Tutorials](https://www.youtube.com/playlist?list=PLworxgpt)
-
-</details>
-
----
-
-## Roadmap
+## 🗺️ Roadmap
 
 ### ✅ Completed
-
-- [x] Core chat interface with streaming responses
-- [x] Support for multiple AI models (GPT-4, Claude, Gemini)
+- [x] Core chat with streaming responses
+- [x] Multiple AI models support
 - [x] File upload and analysis
-- [x] Workspace creation and management
-- [x] Basic project upload functionality
-- [x] Conversation history and search
-- [x] Dark/light theme support
-- [x] Responsive UI design
-- [x] OAuth integration framework
+- [x] Workspace management
+- [x] Project upload
+- [x] Conversation history & search
+- [x] Dark/Light theme
+- [x] Responsive design
+- [x] OAuth integrations
 - [x] GitHub integration
 
 ### 🚀 In Progress
-
-- [ ] Advanced project analysis with AST parsing
-- [ ] Web Agent autonomous research capabilities
-- [ ] AI Agent workflow builder (drag-and-drop)
-- [ ] Code generation and modification with git patches
-- [ ] Team collaboration features (shared workspaces, roles)
-- [ ] Advanced caching and performance optimization
-- [ ] Kubernetes deployment templates
+- [ ] Advanced project AST parsing
+- [ ] Web Agent autonomous research
+- [ ] Workflow builder (drag-and-drop)
+- [ ] Code patches with git integration
+- [ ] Team collaboration features
+- [ ] Performance optimization
+- [ ] Kubernetes templates
 
 ### 📋 Planned
-
-- [ ] Voice input and audio processing
+- [ ] Voice input & audio processing
 - [ ] Custom model fine-tuning
-- [ ] Plugin marketplace for third-party integrations
-- [ ] Advanced analytics and reporting
-- [ ] Mobile native applications (iOS, Android)
-- [ ] Offline-first architecture enhancements
-- [ ] Blockchain-based audit logging
-- [ ] Enterprise SSO and advanced access control
-- [ ] GraphQL API alongside REST
+- [ ] Plugin marketplace
+- [ ] Advanced analytics & reporting
+- [ ] Mobile apps (iOS/Android)
+- [ ] Offline-first architecture
+- [ ] Blockchain audit logging
+- [ ] Enterprise SSO & RBAC
+- [ ] GraphQL API
 - [ ] Real-time collaborative editing
 
 ---
 
-## Security
+## 🔒 Security
 
-WorxGPT is designed with security as a foundational principle. Here are the key security measures:
+### Core Security Measures
 
-### API Key & Credential Protection
+#### API Key Protection
+- ✅ AES-256-GCM encryption for API keys
+- ✅ Automatic credential rotation
+- ✅ Per-user encrypted vaults
+- ✅ Zero-knowledge architecture
 
-- **No Plain-Text Storage**: API keys are encrypted with AES-256-GCM before storage
-- **Automatic Rotation**: Credentials are automatically refreshed at regular intervals
-- **Key Isolation**: Each user's credentials are isolated in separate encrypted vaults
-- **Zero-Knowledge Architecture**: WorxGPT never logs or stores AI provider communications
+#### OAuth Token Management
+- ✅ Encrypted at rest and in transit
+- ✅ Automatic server-side refresh
+- ✅ Granular permission scoping
+- ✅ Instant revocation capability
 
-### OAuth Token Management
+#### User Authentication
+- ✅ Cryptographically signed JWT tokens
+- ✅ Session invalidation on logout
+- ✅ HTTPS-only production deployments
+- ✅ CSRF protection on all mutations
 
-- **Secure Token Storage**: OAuth tokens are encrypted at rest and in transit
-- **Automatic Refresh**: Expired tokens are automatically refreshed server-side
-- **Granular Permissions**: Each integration has minimal required permissions
-- **Revocation**: Users can instantly revoke any integration from Settings
+#### File Upload Security
+- ✅ ClamAV virus scanning
+- ✅ MIME type validation
+- ✅ Configurable size limits
+- ✅ Sandboxed analysis
+- ✅ Access control per user/workspace
 
-### Environment Variables
+#### Rate Limiting
+- ✅ 100 requests/15 minutes per user
+- ✅ Fair-use model limits
+- ✅ WebSocket connection limits
+- ✅ DDoS protection (Cloudflare recommended)
 
-- **`.env` Files**: Never commit `.env` files to version control
-- **Secrets Management**: Use external secret management (HashiCorp Vault, AWS Secrets Manager) in production
-- **Configuration**: Separate configuration from code
-- **Audit Trail**: All configuration changes are logged
-
-### User Authentication
-
-- **JWT Tokens**: Stateless, cryptographically signed JWT tokens with expiration
-- **Session Security**: Sessions are invalidated on logout
-- **HTTPS Only**: All production deployments must use TLS 1.2+
-- **CSRF Protection**: Cross-Site Request Forgery tokens on all mutations
-
-### File Upload Security
-
-- **Virus Scanning**: Uploaded files are scanned with ClamAV
-- **MIME Type Validation**: Only allowed file types are accepted
-- **Size Limits**: File uploads are capped at configured size
-- **Sandboxed Analysis**: File analysis occurs in isolated containers
-- **Access Control**: Files are only accessible to the uploading user/workspace
-
-### Rate Limiting
-
-- **API Rate Limits**: 100 requests/15 minutes per user/IP
-- **Model Rate Limits**: Fair-use limits to prevent abuse
-- **WebSocket Limits**: Connection and message rate limits
-- **DDoS Protection**: Cloudflare or similar CDN protection recommended
-
-### Server-Side Secret Handling
-
-- **Never Expose Secrets**: Sensitive data is never sent to frontend
-- **Server-Rendered Tokens**: Session tokens are generated server-side
-- **Secure Headers**: CSP, X-Frame-Options, X-Content-Type-Options headers enforced
-- **Input Validation**: All inputs are validated and sanitized
-
-### Best Practices for Deployment
-
-1. **Enable HTTPS**: Use Let's Encrypt or commercial certificates
-2. **Set Strong JWT Secret**: Use cryptographically secure random strings (32+ characters)
-3. **Database Encryption**: Enable encryption at rest for PostgreSQL
-4. **Network Security**: Use firewalls, VPCs, and security groups
-5. **Monitoring**: Enable audit logging and alerting for suspicious activity
-6. **Regular Updates**: Keep dependencies and frameworks updated
-7. **Penetration Testing**: Conduct regular security audits
-8. **Incident Response**: Have a plan for security incidents
+### Deployment Best Practices
+1. **Enable HTTPS** with Let's Encrypt
+2. **Strong JWT Secret** (32+ characters)
+3. **Database Encryption** at rest
+4. **Network Security** (Firewalls, VPCs)
+5. **Audit Logging** and alerting
+6. **Regular Updates** of dependencies
+7. **Penetration Testing**
+8. **Incident Response Plan**
 
 ---
 
-## Contributing
+## 📋 Issues & Bug Reports
 
-We welcome contributions from the community! Please read our [Contributing Guide](./CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Found a bug or have a feature request? We'd love to hear from you!
+
+### How to Report Issues
+1. **Search existing issues** before opening new ones
+2. **Be descriptive** with clear reproduction steps
+3. **Include environment details** (OS, Node version, etc.)
+4. **Attach logs or screenshots** if relevant
+5. **Use issue templates** for consistency
+
+### View Issues
+👉 [**Browse All Issues**](https://github.com/hakmedevs-svg/WorxGPT/issues)
+
+---
+
+## 💬 Community & Feedback
+
+We value your feedback and engagement! Here's how to connect:
+
+### Discussion Forum
+💭 [**GitHub Discussions**](https://github.com/hakmedevs-svg/WorxGPT/discussions) - Share ideas, ask questions, and connect with the community
+
+### Direct Contact
+📱 [**Telegram: @hhyr10**](https://t.me/hhyr10) - Connect with HakmeDev directly for support and feedback
+
+### Report Issues
+🐛 [**GitHub Issues**](https://github.com/hakmedevs-svg/WorxGPT/issues) - Report bugs and request features
+
+### Community Guidelines
+- Be respectful and constructive
+- Search before asking to avoid duplicates
+- Provide detailed context and examples
+- Help other community members
+- Follow our [Code of Conduct](./CONTRIBUTING.md#code-of-conduct)
+
+---
+
+## ⭐ Star & Rating
+
+If you find WorxGPT helpful, please consider:
+- ⭐ **Starring the repository** on [GitHub](https://github.com/hakmedevs-svg/WorxGPT)
+- 📢 **Sharing** with your network
+- 💬 **Providing feedback** via issues or discussions
+- 🤝 **Contributing** to the project
+
+Your support helps us improve and grow!
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions of all kinds! Please read our [Contributing Guide](./CONTRIBUTING.md) for details.
 
 ### How to Contribute
-
 1. **Fork** the repository
-2. **Create** a feature branch: `git checkout -b feature/your-feature`
-3. **Make** your changes and commit: `git commit -m 'Add feature: your-feature'`
-4. **Push** to the branch: `git push origin feature/your-feature`
-5. **Open** a Pull Request with a clear description
+2. **Create** feature branch: `git checkout -b feature/your-feature`
+3. **Make changes** and commit: `git commit -m 'feat: add feature'`
+4. **Push** to branch: `git push origin feature/your-feature`
+5. **Open Pull Request** with clear description
 
 ### Types of Contributions
+- 🐛 Bug fixes
+- ✨ New features
+- 📚 Documentation
+- 🧪 Tests
+- ♿ Accessibility
+- 🌍 Translations
 
-- 🐛 **Bug Fixes**: Help squash bugs
-- ✨ **Features**: Implement new features or improvements
-- 📚 **Documentation**: Improve or create documentation
-- 🧪 **Tests**: Add or improve test coverage
-- ♿ **Accessibility**: Enhance a11y compliance
-- 🌍 **Translations**: Add or improve language support
+### Development Standards
+- **Linting**: ESLint (JS), Pylint (Python)
+- **Formatting**: Prettier
+- **Type Safety**: TypeScript
+- **Testing**: Jest/pytest (80%+ coverage)
 
-### Getting Help
-
-- **Issues**: Check existing issues or open a new one
-- **Discussions**: Join our [GitHub Discussions](https://github.com/hakmedevs-svg/WorxGPT/discussions)
-- **Discord**: Connect with maintainers on [Discord](https://discord.gg/worxgpt)
-
----
-
-## Development Guidelines
-
-### Code Quality Standards
-
-- **Linting**: ESLint for JavaScript/TypeScript, Pylint for Python
-- **Formatting**: Prettier for consistent code style
-- **Type Safety**: TypeScript for type checking
-- **Testing**: Minimum 80% code coverage with Jest/pytest
-
-### Commit Conventions
-
+### Commit Convention
 Follow [Conventional Commits](https://www.conventionalcommits.org/):
-
 ```
-<type>(<scope>): <subject>
-
-<body>
-
-<footer>
+feat(scope): description
+fix(scope): description
+docs: description
+style: description
+test: description
 ```
-
-**Types**: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`
-
-**Example:**
-```
-feat(chat): add streaming response support
-
-Implement Server-Sent Events for real-time
-chat responses from AI providers.
-
-Closes #123
-```
-
-### Pull Request Process
-
-1. Update documentation and tests
-2. Ensure all CI checks pass
-3. Request review from maintainers
-4. Address feedback and iterate
-5. Merge when approved
-
-### Testing
-
-```bash
-# Frontend tests
-cd frontend
-npm run test
-
-# Backend tests
-cd backend
-npm run test
-
-# E2E tests
-npm run test:e2e
-
-# Coverage report
-npm run test:coverage
-```
-
-### Documentation
-
-- Document all public APIs
-- Update README for new features
-- Add JSDoc/docstring comments
-- Create architecture decision records (ADRs) for major changes
 
 ---
 
-## License
+## 📄 License
 
-WorxGPT is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute this software for personal and commercial purposes, with proper attribution.
+WorxGPT is licensed under the **MIT License**. You are free to:
 
-**Summary**: 
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution
-- ✅ Private use
-- ❌ Warranty
-- ❌ Liability
+- ✅ Use for commercial purposes
+- ✅ Modify the code
+- ✅ Distribute
+- ✅ Use privately
 
-See [LICENSE](./LICENSE) for the full text.
+With the condition that you include a copy of the license and original copyright notice.
+
+See [LICENSE](./LICENSE) for full text.
 
 ---
 
-## Credits
+## 📝 Changelog
+
+Track all changes and releases in our [CHANGELOG](./CHANGELOG.md)
+
+Latest releases and updates: [**GitHub Releases**](https://github.com/hakmedevs-svg/WorxGPT/releases)
+
+---
+
+## 🙏 Credits & Acknowledgments
 
 ### WorxGPT
-
 A modern AI workspace platform built with modern technologies and best practices.
 
 **Repository**: https://github.com/hakmedevs-svg/WorxGPT
 
 ### Developer
-
 **HakmeDev** - AI/Web Development & Open Source
 
-- **GitHub**: [@hakmedevs-svg](https://github.com/hakmedevs-svg)
-- **Website**: [hakmdev.io](https://hakmdev.io)
-- **Email**: dev@hakmdev.io
+- 🐙 **GitHub**: [@hakmedevs-svg](https://github.com/hakmedevs-svg)
+- 🌐 **Website**: [hakmdev.io](https://hakmdev.io)
+- 📱 **Telegram**: [@hhyr10](https://t.me/hhyr10)
+- 📧 **Email**: dev@hakmdev.io
 
 ### Special Thanks
-
 - The open-source community for incredible frameworks and tools
 - OpenAI, Anthropic, and Google for world-class AI models
-- All contributors and users who help improve WorxGPT
+- All contributors and users helping improve WorxGPT
+- The developers behind React, TypeScript, Node.js, and all technologies used
 
-### Technologies Used
-
-- [React](https://react.dev)
-- [TypeScript](https://www.typescriptlang.org)
-- [Node.js](https://nodejs.org)
-- [Express](https://expressjs.com)
-- [PostgreSQL](https://www.postgresql.org)
-- [Redis](https://redis.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [Docker](https://www.docker.com)
+### Technologies & Libraries
+- [React](https://react.dev) - UI library
+- [TypeScript](https://www.typescriptlang.org) - Type safety
+- [Node.js](https://nodejs.org) - Runtime
+- [Express](https://expressjs.com) - Web framework
+- [PostgreSQL](https://www.postgresql.org) - Database
+- [Redis](https://redis.io) - Caching
+- [Tailwind CSS](https://tailwindcss.com) - Styling
+- [Docker](https://www.docker.com) - Containerization
 
 ---
 
-## Support & Community
+## 📞 Support & Help
 
-### Get Help
+### Documentation
+📖 [**Full Documentation**](https://docs.worxgpt.io)
 
-- 📖 **Documentation**: [Full Documentation](https://docs.worxgpt.io)
-- 🐛 **Report Issues**: [GitHub Issues](https://github.com/hakmedevs-svg/WorxGPT/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/hakmedevs-svg/WorxGPT/discussions)
-- 💻 **Discord Community**: [Join Discord](https://discord.gg/worxgpt)
+### Getting Help
+- 📖 Read the [documentation](https://docs.worxgpt.io)
+- 🔍 Search [existing issues](https://github.com/hakmedevs-svg/WorxGPT/issues)
+- 💬 Ask in [GitHub Discussions](https://github.com/hakmedevs-svg/WorxGPT/discussions)
+- 📱 Contact on [Telegram @hhyr10](https://t.me/hhyr10)
 
 ### Stay Updated
+- 🌟 Star the repository for updates
+- 🔔 Watch for releases
+- 📧 Subscribe to our [changelog](https://github.com/hakmedevs-svg/WorxGPT/releases)
 
-- ⭐ **Star** the repository for updates
-- 🔔 **Watch** for new releases
-- 📧 **Newsletter**: Subscribe to our [changelog](https://github.com/hakmedevs-svg/WorxGPT/releases)
+---
+
+## 🎯 Project Stats
+
+| Metric | Status |
+|--------|--------|
+| **License** | MIT |
+| **Status** | Active Development |
+| **Node Version** | 18+ |
+| **Python Version** | 3.10+ |
+| **Last Updated** | 2026-10-03 |
+| **Contributors** | Open to contributions |
+| **Code Coverage** | Improving continuously |
 
 ---
 
 <div align="center">
 
-## WorxGPT — Your AI Workspace for Work, Code, Research, and Creation
+## 🌟 WorxGPT
+
+### Your AI Workspace for Work, Code, Research, and Creation
 
 **Empowering developers and teams with intelligent AI assistance**
 
-[Homepage](https://worxgpt.io) • [Docs](https://docs.worxgpt.io) • [Demo](https://demo.worxgpt.io) • [Discord](https://discord.gg/worxgpt) • [Issues](https://github.com/hakmedevs-svg/WorxGPT/issues)
+---
+
+### Quick Links
+
+[🌐 Homepage](https://worxgpt.io) • [📖 Docs](https://docs.worxgpt.io) • [🎮 Demo](https://demo.worxgpt.io) • [📱 Telegram](https://t.me/hhyr10) • [💬 Discussions](https://github.com/hakmedevs-svg/WorxGPT/discussions) • [🐛 Issues](https://github.com/hakmedevs-svg/WorxGPT/issues) • [⭐ Star Us](https://github.com/hakmedevs-svg/WorxGPT)
+
+---
+
+### Follow the Developer
+
+**HakmeDev** - Passionate about AI, Web Development & Open Source
+
+[GitHub](https://github.com/hakmedevs-svg) • [Telegram](https://t.me/hhyr10) • [Website](https://hakmdev.io)
+
+---
 
 Made with ❤️ by [HakmeDev](https://github.com/hakmedevs-svg)
+
+**Building the future of AI-powered development, one line of code at a time.**
+
+---
+
+### Give us a Star ⭐
+
+If you find WorxGPT useful, please consider giving us a star on GitHub. It helps us grow and motivates the team!
+
+[⭐ Star WorxGPT](https://github.com/hakmedevs-svg/WorxGPT/stargazers)
 
 </div>
